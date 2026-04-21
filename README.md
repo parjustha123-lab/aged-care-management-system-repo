@@ -3,8 +3,8 @@
 ## Group Members
 - Member 1: Parjal Shrestha
 - Member 2: Bivek Shrestha
-- Member 3: Dharmendra 
-- Member 4: Rasmita 
+- Member 3: Dharmendra Khadka
+- Member 4: Rasmita Timsina
 - Member 5: Shrawan Jaiswal
 
 ## Project Overview
