@@ -1,0 +1,10 @@
+1,Parjal,72,Good,101,450.0
+2,Bivek,68,Critical,102,800.0
+3,Dharmendra,75,Normal,103,400.0
+4,Rasmita,80,Good,104,300.0
+5,Shrawan,77,Critical,105,1000.0
+6,Hari,69,Normal,106,450.0
+7,Gita,73,Good,107,250.0
+8,Rita,81,Critical,108,1100.0
+9,Nabin,74,Normal,109,550.0
+10,Sabin,78,Good,110,150.0
